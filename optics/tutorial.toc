@@ -1,1 +1,5 @@
 \beamer@sectionintoc {1}{Nature of Light}{1}{0}{1}
+\beamer@subsectionintoc {1}{1}{Propagation of Light}{1}{0}{1}
+\beamer@subsectionintoc {1}{2}{Reflections}{3}{0}{1}
+\beamer@subsectionintoc {1}{3}{Refraction}{20}{0}{1}
+\beamer@subsectionintoc {1}{4}{Total Internal Reflection}{26}{0}{1}
