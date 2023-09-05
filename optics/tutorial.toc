@@ -3,3 +3,8 @@
 \beamer@subsectionintoc {1}{2}{Reflections}{3}{0}{1}
 \beamer@subsectionintoc {1}{3}{Refraction}{20}{0}{1}
 \beamer@subsectionintoc {1}{4}{Total Internal Reflection}{26}{0}{1}
+\beamer@sectionintoc {2}{Huygen's Principle}{29}{0}{2}
+\beamer@sectionintoc {3}{Polarization}{30}{0}{3}
+\beamer@sectionintoc {4}{Geometric Optics}{35}{0}{4}
+\beamer@subsectionintoc {4}{1}{Image formation in Plane Mirrors}{35}{0}{4}
+\beamer@subsectionintoc {4}{2}{Spherical Mirrors}{38}{0}{4}
