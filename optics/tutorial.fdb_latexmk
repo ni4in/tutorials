@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1694532134 "/Users/nithinvadekkapat/Work/tutorials/optics/tutorial.tex" "tutorial.pdf" "tutorial" 1694532137 0
-  "/Users/nithinvadekkapat/Work/tutorials/optics/tutorial.tex" 1694532134 11804 3149758a7509eb557abe3f97cc358512 ""
+["pdflatex"] 1694662151 "/Users/nithinvadekkapat/Work/tutorials/optics/tutorial.tex" "tutorial.pdf" "tutorial" 1694662154 0
+  "/Users/nithinvadekkapat/Work/tutorials/optics/tutorial.tex" 1694662147 13315 1c581c71614af271a250a71dfe992050 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -248,13 +248,16 @@
   "49.png" 1694531544 133515 e303ccd5765069607b91c7c382cff623 ""
   "5.png" 1692808082 106518 b0663464c907c0cbdb325c17cb7ce78e ""
   "50.png" 1694531940 43471 bc9f4da9a1228d01a031df1ae0037aff ""
+  "51.png" 1694612532 88562 d5ce636eade46d2c5425c7ee003f9d20 ""
+  "52.png" 1694651696 45893 a9b1fbec4adc5ca6a56359b8a81c1d75 ""
+  "54.png" 1694661232 138975 95901d0dcd57970fbe789a0ff24ca731 ""
   "6.png" 1692808554 30413 1fbf385bc373c6a6dda7de935a2d9bdb ""
   "8.png" 1692812307 132567 6ea48b0955261c611ec97b6d473f5d06 ""
   "9.jpeg" 1692811497 81789 5477b242c963bd8ba67e39faa102fb26 ""
-  "tutorial.aux" 1694532137 12669 d607227c0224e514806c98c2df6139cb "pdflatex"
-  "tutorial.nav" 1694532137 6009 731bf170ca5a513b03b768b127148a96 "pdflatex"
-  "tutorial.out" 1694532137 1438 3f3d62d298d73935a72e42eca23c289f "pdflatex"
-  "tutorial.tex" 1694532134 11804 3149758a7509eb557abe3f97cc358512 ""
+  "tutorial.aux" 1694662154 13672 c70727ed936df71b8fe70868761601d0 "pdflatex"
+  "tutorial.nav" 1694662154 6615 0b904ea74e3d1f9b06868351eddc47c7 "pdflatex"
+  "tutorial.out" 1694662154 1641 285eb2441921c67079d580e81ca00474 "pdflatex"
+  "tutorial.tex" 1694662147 13315 1c581c71614af271a250a71dfe992050 ""
   (generated)
   "tutorial.aux"
   "tutorial.log"

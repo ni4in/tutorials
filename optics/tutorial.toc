@@ -8,3 +8,4 @@
 \beamer@sectionintoc {4}{Geometric Optics}{35}{0}{4}
 \beamer@subsectionintoc {4}{1}{Image formation in Plane Mirrors}{35}{0}{4}
 \beamer@subsectionintoc {4}{2}{Spherical Mirrors}{38}{0}{4}
+\beamer@subsectionintoc {4}{3}{Images formed by Refraction}{45}{0}{4}

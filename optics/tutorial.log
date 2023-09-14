@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  12 SEP 2023 20:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  14 SEP 2023 08:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -622,24 +622,24 @@ LaTeX Warning: Label `sub@Bending Direction' multiply defined.
 )
 \openout1 = `tutorial.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -694,60 +694,60 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring OFF on input line 12.
+Package hyperref Info: Link coloring OFF on input line 13.
  (./tutorial.out) (./tutorial.out)
 \@outlinefile=\write5
 \openout5 = `tutorial.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 12.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 12.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 12.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 12.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 12.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 13.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 12.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 13.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 12.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 12.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 13.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 12.
+(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 12.
+(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 12.
+(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 13.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
@@ -763,479 +763,505 @@ Dictionary: translator-theorem-dictionary, Language: English
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \celsius on input line 12.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 12.
+LaTeX Info: Redefining \celsius on input line 13.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 13.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 12.
-Package gensymb Info: Using \Omega for \ohm on input line 12.
+LaTeX Info: Redefining \ohm on input line 13.
+Package gensymb Info: Using \Omega for \ohm on input line 13.
 
 Package gensymb Warning: Not defining \micro.
 
 (./tutorial.nav)
-<1.png, id=54, 978.65625pt x 323.2075pt>
+<1.png, id=58, 978.65625pt x 323.2075pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 26.
+Package pdftex.def Info: 1.png  used on input line 27.
 (pdftex.def)             Requested size: 284.53476pt x 85.3586pt.
  [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1.png>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 40.
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 41.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [2
 
 ]
-<2.png, id=149, 363.3575pt x 301.125pt>
+<2.png, id=153, 363.3575pt x 301.125pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
-Package pdftex.def Info: 2.png  used on input line 52.
+Package pdftex.def Info: 2.png  used on input line 53.
 (pdftex.def)             Requested size: 142.26328pt x 142.26852pt.
  [3
 
  <./2.png>]
-<3.jpg, id=182, 451.6875pt x 237.13594pt>
+<3.jpg, id=186, 451.6875pt x 237.13594pt>
 File: 3.jpg Graphic file (type jpg)
 <use 3.jpg>
-Package pdftex.def Info: 3.jpg  used on input line 58.
+Package pdftex.def Info: 3.jpg  used on input line 59.
 (pdftex.def)             Requested size: 316.17908pt x 165.994pt.
  [4
 
  <./3.jpg>]
-<6.png, id=209, 376.40625pt x 171.64125pt>
+<6.png, id=213, 376.40625pt x 171.64125pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
-Package pdftex.def Info: 6.png  used on input line 65.
+Package pdftex.def Info: 6.png  used on input line 66.
 (pdftex.def)             Requested size: 301.1254pt x 137.31316pt.
  [5
 
  <./6.png>]
-<5.png, id=237, 515.9275pt x 310.15875pt>
+<5.png, id=241, 515.9275pt x 310.15875pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
-Package pdftex.def Info: 5.png  used on input line 71.
+Package pdftex.def Info: 5.png  used on input line 72.
 (pdftex.def)             Requested size: 257.96312pt x 155.079pt.
  [6
 
  <./5.png>]
-<8.png, id=265, 682.55pt x 304.13625pt>
+<8.png, id=269, 682.55pt x 304.13625pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
-Package pdftex.def Info: 8.png  used on input line 77.
+Package pdftex.def Info: 8.png  used on input line 78.
 (pdftex.def)             Requested size: 341.27417pt x 152.06775pt.
  [7
 
  <./8.png>]
-<9.jpeg, id=295, 963.6pt x 642.4pt>
+<9.jpeg, id=299, 963.6pt x 642.4pt>
 File: 9.jpeg Graphic file (type jpg)
 <use 9.jpeg>
-Package pdftex.def Info: 9.jpeg  used on input line 82.
+Package pdftex.def Info: 9.jpeg  used on input line 83.
 (pdftex.def)             Requested size: 308.3583pt x 205.5722pt.
  [8
 
  <./9.jpeg>]
-<10.png, id=322, 1927.2pt x 1084.05pt>
+<10.png, id=326, 1927.2pt x 1084.05pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
-Package pdftex.def Info: 10.png  used on input line 88.
+Package pdftex.def Info: 10.png  used on input line 89.
 (pdftex.def)             Requested size: 346.88104pt x 195.12057pt.
 
-Overfull \hbox (4.58574pt too wide) in paragraph at lines 88--88
+Overfull \hbox (4.58574pt too wide) in paragraph at lines 89--89
  [] 
  []
 
 [9
 
  <./10.png>]
-<11.jpeg, id=350, 1027.84pt x 770.88pt>
+<11.jpeg, id=354, 1027.84pt x 770.88pt>
 File: 11.jpeg Graphic file (type jpg)
 <use 11.jpeg>
-Package pdftex.def Info: 11.jpeg  used on input line 94.
+Package pdftex.def Info: 11.jpeg  used on input line 95.
 (pdftex.def)             Requested size: 308.35437pt x 231.26578pt.
  [10
 
  <./11.jpeg>]
-<12.jpeg, id=377, 642.4pt x 361.35pt>
+<12.jpeg, id=381, 642.4pt x 361.35pt>
 File: 12.jpeg Graphic file (type jpg)
 <use 12.jpeg>
-Package pdftex.def Info: 12.jpeg  used on input line 100.
+Package pdftex.def Info: 12.jpeg  used on input line 101.
 (pdftex.def)             Requested size: 321.19922pt x 180.67456pt.
  [11
 
  <./12.jpeg>]
-<14.jpeg, id=405, 548.0475pt x 310.15875pt>
+<14.jpeg, id=409, 548.0475pt x 310.15875pt>
 File: 14.jpeg Graphic file (type jpg)
 <use 14.jpeg>
-Package pdftex.def Info: 14.jpeg  used on input line 106.
+Package pdftex.def Info: 14.jpeg  used on input line 107.
 (pdftex.def)             Requested size: 274.02307pt x 155.079pt.
  [12
 
  <./14.jpeg>]
-<13.png, id=432, 979.66pt x 417.56pt>
+<13.png, id=436, 979.66pt x 417.56pt>
 File: 13.png Graphic file (type png)
 <use 13.png>
-Package pdftex.def Info: 13.png  used on input line 112.
+Package pdftex.def Info: 13.png  used on input line 113.
 (pdftex.def)             Requested size: 293.90027pt x 125.26895pt.
  [13
 
  <./13.png>] [14
 
 ]
-<15.png, id=500, 782.925pt x 782.925pt>
+<15.png, id=504, 782.925pt x 782.925pt>
 File: 15.png Graphic file (type png)
 <use 15.png>
-Package pdftex.def Info: 15.png  used on input line 129.
+Package pdftex.def Info: 15.png  used on input line 130.
 (pdftex.def)             Requested size: 195.73077pt x 195.73077pt.
  [15
 
  <./15.png (PNG copy)>]
-<20.png, id=528, 782.925pt x 782.925pt>
+<20.png, id=532, 782.925pt x 782.925pt>
 File: 20.png Graphic file (type png)
 <use 20.png>
-Package pdftex.def Info: 20.png  used on input line 134.
+Package pdftex.def Info: 20.png  used on input line 135.
 (pdftex.def)             Requested size: 195.73077pt x 195.73077pt.
  [16
 
  <./20.png (PNG copy)>]
-<21.jpeg, id=555, 627.34375pt x 480.79625pt>
+<21.jpeg, id=559, 627.34375pt x 480.79625pt>
 File: 21.jpeg Graphic file (type jpg)
 <use 21.jpeg>
-Package pdftex.def Info: 21.jpeg  used on input line 143.
+Package pdftex.def Info: 21.jpeg  used on input line 144.
 (pdftex.def)             Requested size: 125.46652pt x 96.15753pt.
  [17
 
  <./21.jpeg>]
-<17.jpeg, id=582, 1806.75pt x 1282.7925pt>
+<17.jpeg, id=586, 1806.75pt x 1282.7925pt>
 File: 17.jpeg Graphic file (type jpg)
 <use 17.jpeg>
-Package pdftex.def Info: 17.jpeg  used on input line 165.
+Package pdftex.def Info: 17.jpeg  used on input line 166.
 (pdftex.def)             Requested size: 136.91603pt x 97.20354pt.
-<19.jpg, id=583, 196.735pt x 150.5625pt>
+<19.jpg, id=587, 196.735pt x 150.5625pt>
 File: 19.jpg Graphic file (type jpg)
 <use 19.jpg>
-Package pdftex.def Info: 19.jpg  used on input line 165.
+Package pdftex.def Info: 19.jpg  used on input line 166.
 (pdftex.def)             Requested size: 136.91603pt x 104.7819pt.
  [18
 
  <./17.jpeg> <./19.jpg>]
-<22.jpeg, id=615, 264.99pt x 401.5pt>
+<22.jpeg, id=619, 264.99pt x 401.5pt>
 File: 22.jpeg Graphic file (type jpg)
 <use 22.jpeg>
-Package pdftex.def Info: 22.jpeg  used on input line 173.
+Package pdftex.def Info: 22.jpeg  used on input line 174.
 (pdftex.def)             Requested size: 79.4976pt x 120.45091pt.
  [19
 
  <./22.jpeg>]
-<23.jpeg, id=642, 1027.84pt x 770.88pt>
+<23.jpeg, id=646, 1027.84pt x 770.88pt>
 File: 23.jpeg Graphic file (type jpg)
 <use 23.jpeg>
-Package pdftex.def Info: 23.jpeg  used on input line 183.
+Package pdftex.def Info: 23.jpeg  used on input line 184.
 (pdftex.def)             Requested size: 205.56436pt x 154.17326pt.
  [20
 
  <./23.jpeg>]
 File: 23.jpeg Graphic file (type jpg)
 <use 23.jpeg>
-Package pdftex.def Info: 23.jpeg  used on input line 183.
+Package pdftex.def Info: 23.jpeg  used on input line 184.
 (pdftex.def)             Requested size: 205.56436pt x 154.17326pt.
  [21
 
 ]
-<24.png, id=709, 453.695pt x 509.905pt>
+<24.png, id=713, 453.695pt x 509.905pt>
 File: 24.png Graphic file (type png)
 <use 24.png>
-Package pdftex.def Info: 24.png  used on input line 192.
+Package pdftex.def Info: 24.png  used on input line 193.
 (pdftex.def)             Requested size: 127.03372pt x 142.77242pt.
  [22
 
  <./24.png>]
 File: 24.png Graphic file (type png)
 <use 24.png>
-Package pdftex.def Info: 24.png  used on input line 192.
+Package pdftex.def Info: 24.png  used on input line 193.
 (pdftex.def)             Requested size: 127.03372pt x 142.77242pt.
  [23
 
 ]
-<25.png, id=785, 327.2225pt x 322.20375pt>
+<25.png, id=789, 327.2225pt x 322.20375pt>
 File: 25.png Graphic file (type png)
 <use 25.png>
-Package pdftex.def Info: 25.png  used on input line 215.
+Package pdftex.def Info: 25.png  used on input line 216.
 (pdftex.def)             Requested size: 143.7634pt x 141.55867pt.
-<26.png, id=786, 115.632pt x 65.043pt>
+<26.png, id=790, 115.632pt x 65.043pt>
 File: 26.png Graphic file (type png)
 <use 26.png>
-Package pdftex.def Info: 26.png  used on input line 215.
+Package pdftex.def Info: 26.png  used on input line 216.
 (pdftex.def)             Requested size: 171.14764pt x 96.276pt.
  [24
 
  <./25.png> <./26.png>] [25
 
 ]
-<28.png, id=858, 975.645pt x 318.18875pt>
+<28.png, id=862, 975.645pt x 318.18875pt>
 File: 28.png Graphic file (type png)
 <use 28.png>
-Package pdftex.def Info: 28.png  used on input line 237.
+Package pdftex.def Info: 28.png  used on input line 238.
 (pdftex.def)             Requested size: 292.69576pt x 95.45735pt.
  [26
 
  <./28.png>]
-<30.png, id=887, 978.65625pt x 451.6875pt>
+<30.png, id=891, 978.65625pt x 451.6875pt>
 File: 30.png Graphic file (type png)
 <use 30.png>
-Package pdftex.def Info: 30.png  used on input line 242.
+Package pdftex.def Info: 30.png  used on input line 243.
 (pdftex.def)             Requested size: 293.59914pt x 135.5073pt.
  [27
 
  <./30.png>]
-<31.png, id=914, 637.38126pt x 395.4775pt>
+<31.png, id=918, 637.38126pt x 395.4775pt>
 File: 31.png Graphic file (type png)
 <use 31.png>
-Package pdftex.def Info: 31.png  used on input line 271.
+Package pdftex.def Info: 31.png  used on input line 272.
 (pdftex.def)             Requested size: 102.68962pt x 63.71217pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                  
-<32.png, id=915, 453.695pt x 449.68pt>
+<32.png, id=919, 453.695pt x 449.68pt>
 File: 32.png Graphic file (type png)
 <use 32.png>
-Package pdftex.def Info: 32.png  used on input line 271.
+Package pdftex.def Info: 32.png  used on input line 272.
 (pdftex.def)             Requested size: 102.68962pt x 101.77745pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                  
-<33.jpg, id=916, 993.7125pt x 1003.75pt>
+<33.jpg, id=920, 993.7125pt x 1003.75pt>
 File: 33.jpg Graphic file (type jpg)
 <use 33.jpg>
-Package pdftex.def Info: 33.jpg  used on input line 271.
+Package pdftex.def Info: 33.jpg  used on input line 272.
 (pdftex.def)             Requested size: 102.68962pt x 103.71976pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.271 \end{frame}
+l.272 \end{frame}
                   [28
 
  <./31.png> <./32.png> <./33.jpg>] [29
 
 ]
-<33.png, id=971, 978.65625pt x 368.37625pt>
+<33.png, id=975, 978.65625pt x 368.37625pt>
 File: 33.png Graphic file (type png)
 <use 33.png>
-Package pdftex.def Info: 33.png  used on input line 292.
+Package pdftex.def Info: 33.png  used on input line 293.
 (pdftex.def)             Requested size: 293.59914pt x 110.51372pt.
  [30
 
  <./33.png>]
-<34.png, id=1001, 417.56pt x 206.7725pt>
+<34.png, id=1005, 417.56pt x 206.7725pt>
 File: 34.png Graphic file (type png)
 <use 34.png>
-Package pdftex.def Info: 34.png  used on input line 297.
+Package pdftex.def Info: 34.png  used on input line 298.
 (pdftex.def)             Requested size: 334.04843pt x 165.41821pt.
  [31
 
  <./34.png>] [32
 
 ]
-<35.png, id=1056, 833.1125pt x 391.4625pt>
+<35.png, id=1060, 833.1125pt x 391.4625pt>
 File: 35.png Graphic file (type png)
 <use 35.png>
-Package pdftex.def Info: 35.png  used on input line 316.
+Package pdftex.def Info: 35.png  used on input line 317.
 (pdftex.def)             Requested size: 249.93568pt x 117.43965pt.
  [33
 
  <./35.png>]
-<36.png, id=1084, 935.495pt x 337.26pt>
+<36.png, id=1088, 935.495pt x 337.26pt>
 File: 36.png Graphic file (type png)
 <use 36.png>
-Package pdftex.def Info: 36.png  used on input line 323.
+Package pdftex.def Info: 36.png  used on input line 324.
 (pdftex.def)             Requested size: 280.65067pt x 101.17877pt.
  [34
 
  <./36.png>]
-<37.png, id=1111, 725.71124pt x 427.5975pt>
+<37.png, id=1115, 725.71124pt x 427.5975pt>
 File: 37.png Graphic file (type png)
 <use 37.png>
-Package pdftex.def Info: 37.png  used on input line 334.
+Package pdftex.def Info: 37.png  used on input line 335.
 (pdftex.def)             Requested size: 217.71504pt x 128.28023pt.
  [35
 
  <./37.png>]
-<38.png, id=1141, 766.865pt x 295.1025pt>
+<38.png, id=1145, 766.865pt x 295.1025pt>
 File: 38.png Graphic file (type png)
 <use 38.png>
-Package pdftex.def Info: 38.png  used on input line 339.
+Package pdftex.def Info: 38.png  used on input line 340.
 (pdftex.def)             Requested size: 306.74057pt x 118.0389pt.
  [36
 
  <./38.png>]
-<39.png, id=1168, 977.6525pt x 358.33875pt>
+<39.png, id=1172, 977.6525pt x 358.33875pt>
 File: 39.png Graphic file (type png)
 <use 39.png>
-Package pdftex.def Info: 39.png  used on input line 344.
+Package pdftex.def Info: 39.png  used on input line 345.
 (pdftex.def)             Requested size: 293.298pt x 107.50244pt.
  [37
 
  <./39.png>]
-<40.png, id=1197, 784.9325pt x 492.84125pt>
+<40.png, id=1201, 784.9325pt x 492.84125pt>
 File: 40.png Graphic file (type png)
 <use 40.png>
-Package pdftex.def Info: 40.png  used on input line 353.
+Package pdftex.def Info: 40.png  used on input line 354.
 (pdftex.def)             Requested size: 235.48155pt x 147.8535pt.
  [38
 
  <./40.png>]
-<41.png, id=1225, 729.72626pt x 314.17375pt>
+<41.png, id=1231, 729.72626pt x 314.17375pt>
 File: 41.png Graphic file (type png)
 <use 41.png>
-Package pdftex.def Info: 41.png  used on input line 364.
+Package pdftex.def Info: 41.png  used on input line 365.
 (pdftex.def)             Requested size: 218.91957pt x 94.25284pt.
  [39
 
  <./41.png>]
-<42.jpeg, id=1253, 308.352pt x 462.528pt>
+<42.jpeg, id=1259, 308.352pt x 462.528pt>
 File: 42.jpeg Graphic file (type jpg)
 <use 42.jpeg>
-Package pdftex.def Info: 42.jpeg  used on input line 382.
+Package pdftex.def Info: 42.jpeg  used on input line 383.
 (pdftex.def)             Requested size: 136.91603pt x 205.37614pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.382 \end{frame}
+l.383 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.382 \end{frame}
+l.383 \end{frame}
                  
-<43.png, id=1254, 622.325pt x 401.5pt>
+<43.png, id=1260, 622.325pt x 401.5pt>
 File: 43.png Graphic file (type png)
 <use 43.png>
-Package pdftex.def Info: 43.png  used on input line 382.
+Package pdftex.def Info: 43.png  used on input line 383.
 (pdftex.def)             Requested size: 136.91603pt x 88.33026pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.382 \end{frame}
+l.383 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.382 \end{frame}
+l.383 \end{frame}
                  
-Overfull \vbox (8.30556pt too high) detected at line 382
+Overfull \vbox (8.30556pt too high) detected at line 383
  []
 
 [40
 
  <./42.jpeg> <./43.png>]
-<44.jpeg, id=1282, 609.27625pt x 432.61626pt>
+<44.jpeg, id=1288, 609.27625pt x 432.61626pt>
 File: 44.jpeg Graphic file (type jpg)
 <use 44.jpeg>
-Package pdftex.def Info: 44.jpeg  used on input line 387.
+Package pdftex.def Info: 44.jpeg  used on input line 388.
 (pdftex.def)             Requested size: 304.63737pt x 216.3076pt.
  [41
 
  <./44.jpeg>]
-<45.jpg, id=1310, 682.55pt x 1003.75pt>
+<45.jpg, id=1316, 682.55pt x 1003.75pt>
 File: 45.jpg Graphic file (type jpg)
 <use 45.jpg>
-Package pdftex.def Info: 45.jpg  used on input line 413.
+Package pdftex.def Info: 45.jpg  used on input line 414.
 (pdftex.def)             Requested size: 102.68962pt x 151.00017pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                  
-<45.jpeg, id=1311, 200.75pt x 181.67876pt>
+<45.jpeg, id=1317, 200.75pt x 181.67876pt>
 File: 45.jpeg Graphic file (type jpg)
 <use 45.jpeg>
-Package pdftex.def Info: 45.jpeg  used on input line 413.
+Package pdftex.def Info: 45.jpeg  used on input line 414.
 (pdftex.def)             Requested size: 102.68962pt x 92.93492pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                  
-<47.jpeg, id=1312, 1275.76625pt x 635.37375pt>
+<47.jpeg, id=1318, 1275.76625pt x 635.37375pt>
 File: 47.jpeg Graphic file (type jpg)
 <use 47.jpeg>
-Package pdftex.def Info: 47.jpeg  used on input line 413.
+Package pdftex.def Info: 47.jpeg  used on input line 414.
 (pdftex.def)             Requested size: 102.68962pt x 51.14117pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                  
 pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\040Direction}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.413 \end{frame}
+l.414 \end{frame}
                   [42
 
  <./45.jpg> <./45.jpeg> <./47.jpeg>]
-<50.png, id=1339, 443.6575pt x 305.14pt>
+<50.png, id=1345, 443.6575pt x 305.14pt>
 File: 50.png Graphic file (type png)
 <use 50.png>
-Package pdftex.def Info: 50.png  used on input line 418.
+Package pdftex.def Info: 50.png  used on input line 425.
 (pdftex.def)             Requested size: 133.09827pt x 91.5427pt.
  [43
 
  <./50.png>]
-<49.png, id=1367, 773.89125pt x 314.17375pt>
+<49.png, id=1373, 773.89125pt x 314.17375pt>
 File: 49.png Graphic file (type png)
 <use 49.png>
-Package pdftex.def Info: 49.png  used on input line 423.
+Package pdftex.def Info: 49.png  used on input line 431.
 (pdftex.def)             Requested size: 309.55101pt x 125.66727pt.
  [44
 
  <./49.png>]
+<51.png, id=1400, 467.7475pt x 317.185pt>
+File: 51.png Graphic file (type png)
+<use 51.png>
+Package pdftex.def Info: 51.png  used on input line 440.
+(pdftex.def)             Requested size: 140.32532pt x 95.15622pt.
+ [45
+
+ <./51.png>]
+<52.png, id=1429, 334.24875pt x 401.5pt>
+File: 52.png Graphic file (type png)
+<use 52.png>
+Package pdftex.def Info: 52.png  used on input line 456.
+(pdftex.def)             Requested size: 66.84856pt x 80.29857pt.
+ [46
+
+ <./52.png>]
+<54.png, id=1469, 758.835pt x 321.2pt>
+File: 54.png Graphic file (type png)
+<use 54.png>
+Package pdftex.def Info: 54.png  used on input line 472.
+(pdftex.def)             Requested size: 265.59624pt x 112.42168pt.
+ [47
+
+ <./54.png>] [48
+
+]
 \tf@nav=\write6
 \openout6 = `tutorial.nav'.
 
@@ -1250,21 +1276,21 @@ Package pdftex.def Info: 49.png  used on input line 423.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tutorial.out' has not changed.
-(rerunfilecheck)             Checksum: 3F3D62D298D73935A72E42ECA23C289F;1438.
+(rerunfilecheck)             Checksum: 285EB2441921C67079D580E81CA00474;1641.
  ) 
 Here is how much of TeX's memory you used:
- 23987 strings out of 476025
- 469978 string characters out of 5790017
+ 24042 strings out of 476025
+ 470947 string characters out of 5790017
  1862388 words of memory out of 5000000
- 43817 multiletter control sequences out of 15000+600000
+ 43859 multiletter control sequences out of 15000+600000
  520249 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,15n,122p,449b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tutorial.pdf (44 pages, 6926650 bytes).
+Output written on tutorial.pdf (48 pages, 7132748 bytes).
 PDF statistics:
- 1468 PDF objects out of 1728 (max. 8388607)
- 1266 compressed objects within 13 object streams
- 107 named destinations out of 1000 (max. 500000)
- 607 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1611 PDF objects out of 1728 (max. 8388607)
+ 1386 compressed objects within 14 object streams
+ 117 named destinations out of 1000 (max. 500000)
+ 702 words of extra memory for PDF output out of 10000 (max. 10000000)
 
