@@ -10,4 +10,6 @@
 \beamer@subsectionintoc {4}{2}{Spherical Mirrors}{38}{0}{4}
 \beamer@subsectionintoc {4}{3}{Images formed by Refraction}{45}{0}{4}
 \beamer@sectionintoc {5}{The Camera}{54}{0}{5}
-\beamer@subsectionintoc {5}{1}{A Breif History}{54}{0}{5}
+\beamer@subsectionintoc {5}{1}{A Breif History of Photography}{54}{0}{5}
+\beamer@subsectionintoc {5}{2}{Cell Phone Cameras}{120}{0}{5}
+\beamer@subsectionintoc {5}{3}{Mirrorless Cameras}{123}{0}{5}

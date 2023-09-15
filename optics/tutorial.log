@@ -1,28 +1,28 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2023.5.31)  15 SEP 2023 07:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  15 SEP 2023 09:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/nithin/Work/tutorials/optics/tutorial.tex
-(/home/nithin/Work/tutorials/optics/tutorial.tex
+**/Users/nithinvadekkapat/Work/tutorials/tutorials/optics/tutorial.tex
+(/Users/nithinvadekkapat/Work/tutorials/tutorials/optics/tutorial.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-01-16> (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
-Document Class: beamer 2022/09/13 v3.68 A class for typesetting presentations
-(/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+L3 programming layer <2023-02-22> (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamer.cls
+Document Class: beamer 2023/02/20 v3.69 A class for typesetting presentations
+(/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemodes.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count185
 )
 \beamer@tempbox=\box51
 \beamer@tempcount=\count186
 \c@beamerpauses=\count187
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasedecode.sty
 \beamer@slideinframe=\count188
 \beamer@minimum=\count189
 \beamer@decode@box=\box52
 )
 \beamer@commentbox=\box53
 \beamer@modecount=\count190
-) (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 )
 \headdp=\dimen140
@@ -68,15 +68,15 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \beamer@sectionadjust=\count274
 \beamer@toclastsection=\count275
 \beamer@tocsectionnumber=\count276
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoptions.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 ))
 \beamer@paperwidth=\skip49
 \beamer@paperheight=\skip50
- (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
 \Gm@cnth=\count277
@@ -91,20 +91,20 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen162
 \Gm@layoutvoffset=\dimen163
 \Gm@dimlist=\toks17
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
 \pgfutil@everybye=\toks18
 \pgfutil@tempdima=\dimen164
 \pgfutil@tempdimb=\dimen165
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
 \pgfutil@abb=\box60
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks19
 \pgfkeys@temptoks=\toks20
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
 \pgfkeys@tmptoks=\toks21
-))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex
 \pgf@x=\dimen166
 \pgf@xa=\dimen167
 \pgf@xb=\dimen168
@@ -117,33 +117,33 @@ Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 \c@pgf@countb=\count281
 \c@pgf@countc=\count282
 \c@pgf@countd=\count283
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen174
 \pgfmath@count=\count284
 \pgfmath@box=\box61
 \pgfmath@toks=\toks22
 \pgfmath@stack@operand=\toks23
 \pgfmath@stack@operation=\toks24
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
 \c@pgfmathroundto@lastzeros=\count285
-))) (/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen175
 \Gin@req@width=\dimen176
-) (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@x=\dimen177
 \pgf@y=\dimen178
@@ -165,27 +165,27 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \t@pgf@tokb=\toks26
 \t@pgf@tokc=\toks27
 \pgf@sys@id@count=\count290
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
 Driver file for pgf: pgfsys-pdftex.def
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
 File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+))) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfsyssoftpath@smallbuffer@items=\count291
 \pgfsyssoftpath@bigbuffer@items=\count292
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -195,9 +195,9 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen187
 \pgf@picmaxx=\dimen188
@@ -213,93 +213,93 @@ File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yy=\dimen198
 \pgf@zx=\dimen199
 \pgf@zy=\dimen256
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@path@lastx=\dimen257
 \pgf@path@lasty=\dimen258
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@shorten@end@additional=\dimen259
 \pgf@shorten@start@additional=\dimen260
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box62
 \pgf@hbox=\box63
 \pgf@layerbox@main=\box64
 \pgf@picture@serial@count=\count293
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen261
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@pt@x=\dimen262
 \pgf@pt@y=\dimen263
 \pgf@pt@temp=\dimen264
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfarrowsep=\dimen265
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen266
 \pgf@sys@shading@range@num=\count294
 \pgf@shadingcount=\count295
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfexternal@startupbox=\box65
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
+))) (/usr/local/texlive/2023/texmf-dist/tex/latex/pgf/utilities/xxcolor.sty
 Package: xxcolor 2003/10/24 ver 0.1
 \XC@nummixins=\count296
 \XC@countmixins=\count297
-) (/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
- (/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-) (/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
- (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count298
@@ -307,53 +307,53 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 \@linkdim=\dimen267
 \Hy@linkcounter=\count299
 \Hy@pagecounter=\count300
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-) (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count301
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4045.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 4045.
-Package hyperref Info: Option `implicit' set `false' on input line 4045.
-Package hyperref Info: Hyper figures OFF on input line 4162.
-Package hyperref Info: Link nesting OFF on input line 4167.
-Package hyperref Info: Hyper index ON on input line 4170.
-Package hyperref Info: Plain pages OFF on input line 4177.
-Package hyperref Info: Backreferencing OFF on input line 4182.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4060.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4060.
+Package hyperref Info: Option `implicit' set `false' on input line 4060.
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
 Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
-Package hyperref Info: Bookmarks ON on input line 4410.
+Package hyperref Info: Bookmarks ON on input line 4425.
 \c@Hy@tempcnt=\count302
- (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4748.
+LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen268
- (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count303
 \Field@Width=\dimen269
 \Fld@charsize=\dimen270
-Package hyperref Info: Hyper figures OFF on input line 6027.
-Package hyperref Info: Link nesting OFF on input line 6032.
-Package hyperref Info: Hyper index ON on input line 6035.
-Package hyperref Info: backreferencing OFF on input line 6042.
-Package hyperref Info: Link coloring OFF on input line 6047.
-Package hyperref Info: Link coloring with OCG OFF on input line 6052.
-Package hyperref Info: PDF/A mode OFF on input line 6057.
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
 \Hy@abspage=\count304
 
 
@@ -361,23 +361,23 @@ Package hyperref Message: Stopped early.
 
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
- (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2023-02-07 v7.00v Hyperref driver for pdfTeX
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
 \Fld@listcount=\count305
 \c@bookmark@seq@number=\count306
- (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
- (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaserequires.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecompatibility.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasefont.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \@emptytoks=\toks28
 \symAMSa=\mathgroup4
@@ -385,27 +385,27 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-)) (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/sansmathaccent.sty
 Package: sansmathaccent 2020/01/31
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile.sty
 Package: scrlfile 2022/10/12 v3.38 KOMA-Script package (file load hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
 Package: scrlfile-hook 2022/10/12 v3.38 KOMA-Script package (using LaTeX hooks)
- (/usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/koma-script/scrlogo.sty
 Package: scrlogo 2022/10/12 v3.38 KOMA-Script package (logo)
-))))) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/share/texlive/texmf-dist/tex/latex/translator/translator.sty
+))))) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetranslator.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator.sty
 Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasemisc.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetwoscreens.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseoverlay.sty
 \beamer@argscount=\count307
 \beamer@lastskipcover=\skip51
 \beamer@trivlistdepth=\count308
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasesection.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetitle.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasesection.sty
 \c@lecture=\count309
 \c@part=\count310
 \c@section=\count311
 \c@subsection=\count312
 \c@subsubsection=\count313
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframe.sty
 \beamer@framebox=\box66
 \beamer@frametitlebox=\box67
 \beamer@zoombox=\box68
@@ -420,21 +420,21 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 \beamer@envbody=\toks29
 \framewidth=\dimen272
 \c@framenumber=\count317
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseverbatim.sty
 \beamer@verbatimfileout=\write4
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframesize.sty
 \beamer@splitbox=\box69
 \beamer@autobreakcount=\count318
 \beamer@autobreaklastheight=\dimen273
 \beamer@frametitletoks=\toks30
 \beamer@framesubtitletoks=\toks31
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseframecomponents.sty
 \beamer@footins=\box70
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasecolor.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenotes.sty
 \beamer@frameboxcopy=\box71
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetoc.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetemplates.sty
 \beamer@sbttoks=\toks32
- (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseauxtemplates.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaseboxes.sty
 \bmb@box=\box72
 \bmb@colorbox=\box73
 \bmb@boxwidth=\dimen274
@@ -446,7 +446,7 @@ Package: translator 2021-05-31 v1.12d Easy translation of strings in LaTeX
 \bmb@prevheight=\dimen280
 )
 \beamer@blockheadheight=\dimen281
-)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbaselocalstructure.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \@enLab=\toks33
 )
@@ -455,23 +455,23 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 \c@table=\count320
 \abovecaptionskip=\skip57
 \belowcaptionskip=\skip58
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigation.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasenavigationsymbols.tex)
 \beamer@section@min@dim=\dimen282
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasetheorems.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2022/04/08 v2.17n AMS math features
 \@mathmargin=\skip59
 
 For additional information on amsmath, use the `?' option.
-(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
- (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks34
 \ex@=\dimen283
-)) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+)) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen284
-) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count321
@@ -521,7 +521,7 @@ LaTeX Info: Redefining \Relbar on input line 971.
 \mathdisplay@stack=\toks38
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
-) (/usr/share/texlive/texmf-dist/tex/latex/amscls/amsthm.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks39
 \thm@bodyfont=\toks40
@@ -534,13 +534,13 @@ Package: amsthm 2020/05/29 v2.20.6
 \dth@everypar=\toks44
 )
 \c@theorem=\count333
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerbasethemes.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemedefault.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerfontthemedefault.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemedefault.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemedefault.sty
 \beamer@dima=\dimen292
 \beamer@dimb=\dimen293
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2022/03/01 v3.6b Customizing captions (AR)
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemedefault.sty))) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/03/12 v3.6j Customizing captions (AR)
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
 \caption@tempdima=\dimen294
 \captionmargin=\dimen295
 \caption@leftmargin=\dimen296
@@ -550,7 +550,7 @@ Package: caption3 2022/03/17 v2.3b caption3 kernel (AR)
 \caption@parindent=\dimen300
 \caption@hangindent=\dimen301
 Package caption Info: beamer document class detected.
- (/usr/share/texlive/texmf-dist/tex/latex/caption/caption-beamer.sto
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-beamer.sto
 File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the beamer document classes (AR)
 ))
 \c@caption@flags=\count334
@@ -558,13 +558,15 @@ File: caption-beamer.sto 2022/01/06 v2.0c Adaption of the caption package to the
 Package caption Info: hyperref package is loaded.
 Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
-) (/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2022/01/07 v1.5 Sub-captions (AR)
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 239.
 \c@subfigure=\count336
+Package caption Info: New subtype `subtable' on input line 239.
 \c@subtable=\count337
-) (/usr/share/texlive/texmf-dist/tex/latex/gensymb/gensymb.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerthemeMadrid.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemewhale.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamercolorthemeorchid.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerinnerthemerounded.sty) (/usr/local/texlive/2023/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)) (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count338
 \l__pdf_internal_box=\box76
@@ -673,7 +675,7 @@ LaTeX Font Info:    ... okay on input line 13.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+(/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count339
 \scratchdimen=\dimen302
@@ -686,10 +688,10 @@ LaTeX Font Info:    ... okay on input line 13.
 \MPnumerator=\count343
 \makeMPintoPDFobject=\count344
 \everyMPtoPDFconversion=\toks46
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 13.
@@ -746,17 +748,17 @@ LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 13.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on input line 13.
- (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-bibliography-dictionary-English.dict
 Dictionary: translator-bibliography-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-environment-dictionary-English.dict
 Dictionary: translator-environment-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-months-dictionary-English.dict
 Dictionary: translator-months-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-numbers-dictionary-English.dict
 Dictionary: translator-numbers-dictionary, Language: English 
-) (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 Package caption Info: Begin \AtBeginDocument code.
@@ -773,29 +775,29 @@ Package gensymb Info: Using \Omega for \ohm on input line 13.
 Package gensymb Warning: Not defining \micro.
 
 (./tutorial.nav)
-<1.png, id=66, 978.65625pt x 323.2075pt>
+<1.png, id=74, 978.65625pt x 323.2075pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 27.
 (pdftex.def)             Requested size: 284.53476pt x 85.3586pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./1.png>]
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./1.png>]
 LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on input line 41.
- (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 ) [2
 
 ]
-<2.png, id=161, 363.3575pt x 301.125pt>
+<2.png, id=169, 363.3575pt x 301.125pt>
 File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 53.
@@ -803,7 +805,7 @@ Package pdftex.def Info: 2.png  used on input line 53.
  [3
 
  <./2.png>]
-<3.jpg, id=194, 451.6875pt x 237.13594pt>
+<3.jpg, id=202, 451.6875pt x 237.13594pt>
 File: 3.jpg Graphic file (type jpg)
 <use 3.jpg>
 Package pdftex.def Info: 3.jpg  used on input line 59.
@@ -811,7 +813,7 @@ Package pdftex.def Info: 3.jpg  used on input line 59.
  [4
 
  <./3.jpg>]
-<6.png, id=221, 376.40625pt x 171.64125pt>
+<6.png, id=229, 376.40625pt x 171.64125pt>
 File: 6.png Graphic file (type png)
 <use 6.png>
 Package pdftex.def Info: 6.png  used on input line 66.
@@ -819,7 +821,7 @@ Package pdftex.def Info: 6.png  used on input line 66.
  [5
 
  <./6.png>]
-<5.png, id=249, 515.9275pt x 310.15875pt>
+<5.png, id=257, 515.9275pt x 310.15875pt>
 File: 5.png Graphic file (type png)
 <use 5.png>
 Package pdftex.def Info: 5.png  used on input line 72.
@@ -827,7 +829,7 @@ Package pdftex.def Info: 5.png  used on input line 72.
  [6
 
  <./5.png>]
-<8.png, id=277, 682.55pt x 304.13625pt>
+<8.png, id=286, 682.55pt x 304.13625pt>
 File: 8.png Graphic file (type png)
 <use 8.png>
 Package pdftex.def Info: 8.png  used on input line 78.
@@ -835,7 +837,7 @@ Package pdftex.def Info: 8.png  used on input line 78.
  [7
 
  <./8.png>]
-<9.jpeg, id=307, 963.6pt x 642.4pt>
+<9.jpeg, id=315, 963.6pt x 642.4pt>
 File: 9.jpeg Graphic file (type jpg)
 <use 9.jpeg>
 Package pdftex.def Info: 9.jpeg  used on input line 83.
@@ -843,7 +845,7 @@ Package pdftex.def Info: 9.jpeg  used on input line 83.
  [8
 
  <./9.jpeg>]
-<10.png, id=334, 1927.2pt x 1084.05pt>
+<10.png, id=342, 1927.2pt x 1084.05pt>
 File: 10.png Graphic file (type png)
 <use 10.png>
 Package pdftex.def Info: 10.png  used on input line 89.
@@ -856,7 +858,7 @@ Overfull \hbox (4.58574pt too wide) in paragraph at lines 89--89
 [9
 
  <./10.png>]
-<11.jpeg, id=362, 1027.84pt x 770.88pt>
+<11.jpeg, id=370, 1027.84pt x 770.88pt>
 File: 11.jpeg Graphic file (type jpg)
 <use 11.jpeg>
 Package pdftex.def Info: 11.jpeg  used on input line 95.
@@ -864,7 +866,7 @@ Package pdftex.def Info: 11.jpeg  used on input line 95.
  [10
 
  <./11.jpeg>]
-<12.jpeg, id=389, 642.4pt x 361.35pt>
+<12.jpeg, id=398, 642.4pt x 361.35pt>
 File: 12.jpeg Graphic file (type jpg)
 <use 12.jpeg>
 Package pdftex.def Info: 12.jpeg  used on input line 101.
@@ -872,7 +874,7 @@ Package pdftex.def Info: 12.jpeg  used on input line 101.
  [11
 
  <./12.jpeg>]
-<14.jpeg, id=417, 548.0475pt x 310.15875pt>
+<14.jpeg, id=425, 548.0475pt x 310.15875pt>
 File: 14.jpeg Graphic file (type jpg)
 <use 14.jpeg>
 Package pdftex.def Info: 14.jpeg  used on input line 107.
@@ -880,7 +882,7 @@ Package pdftex.def Info: 14.jpeg  used on input line 107.
  [12
 
  <./14.jpeg>]
-<13.png, id=444, 979.66pt x 417.56pt>
+<13.png, id=452, 979.66pt x 417.56pt>
 File: 13.png Graphic file (type png)
 <use 13.png>
 Package pdftex.def Info: 13.png  used on input line 113.
@@ -890,7 +892,7 @@ Package pdftex.def Info: 13.png  used on input line 113.
  <./13.png>] [14
 
 ]
-<15.png, id=513, 782.925pt x 782.925pt>
+<15.png, id=521, 782.925pt x 782.925pt>
 File: 15.png Graphic file (type png)
 <use 15.png>
 Package pdftex.def Info: 15.png  used on input line 130.
@@ -898,7 +900,7 @@ Package pdftex.def Info: 15.png  used on input line 130.
  [15
 
  <./15.png (PNG copy)>]
-<20.png, id=540, 782.925pt x 782.925pt>
+<20.png, id=548, 782.925pt x 782.925pt>
 File: 20.png Graphic file (type png)
 <use 20.png>
 Package pdftex.def Info: 20.png  used on input line 135.
@@ -906,7 +908,7 @@ Package pdftex.def Info: 20.png  used on input line 135.
  [16
 
  <./20.png (PNG copy)>]
-<21.jpeg, id=567, 627.34375pt x 480.79625pt>
+<21.jpeg, id=575, 627.34375pt x 480.79625pt>
 File: 21.jpeg Graphic file (type jpg)
 <use 21.jpeg>
 Package pdftex.def Info: 21.jpeg  used on input line 144.
@@ -914,12 +916,12 @@ Package pdftex.def Info: 21.jpeg  used on input line 144.
  [17
 
  <./21.jpeg>]
-<17.jpeg, id=594, 1806.75pt x 1282.7925pt>
+<17.jpeg, id=602, 1806.75pt x 1282.7925pt>
 File: 17.jpeg Graphic file (type jpg)
 <use 17.jpeg>
 Package pdftex.def Info: 17.jpeg  used on input line 166.
 (pdftex.def)             Requested size: 136.91603pt x 97.20354pt.
-<19.jpg, id=595, 196.735pt x 150.5625pt>
+<19.jpg, id=603, 196.735pt x 150.5625pt>
 File: 19.jpg Graphic file (type jpg)
 <use 19.jpg>
 Package pdftex.def Info: 19.jpg  used on input line 166.
@@ -927,7 +929,7 @@ Package pdftex.def Info: 19.jpg  used on input line 166.
  [18
 
  <./17.jpeg> <./19.jpg>]
-<22.jpeg, id=627, 264.99pt x 401.5pt>
+<22.jpeg, id=635, 264.99pt x 401.5pt>
 File: 22.jpeg Graphic file (type jpg)
 <use 22.jpeg>
 Package pdftex.def Info: 22.jpeg  used on input line 174.
@@ -935,7 +937,7 @@ Package pdftex.def Info: 22.jpeg  used on input line 174.
  [19
 
  <./22.jpeg>]
-<23.jpeg, id=654, 1027.84pt x 770.88pt>
+<23.jpeg, id=662, 1027.84pt x 770.88pt>
 File: 23.jpeg Graphic file (type jpg)
 <use 23.jpeg>
 Package pdftex.def Info: 23.jpeg  used on input line 184.
@@ -950,7 +952,7 @@ Package pdftex.def Info: 23.jpeg  used on input line 184.
  [21
 
 ]
-<24.png, id=721, 453.695pt x 509.905pt>
+<24.png, id=729, 453.695pt x 509.905pt>
 File: 24.png Graphic file (type png)
 <use 24.png>
 Package pdftex.def Info: 24.png  used on input line 193.
@@ -965,12 +967,12 @@ Package pdftex.def Info: 24.png  used on input line 193.
  [23
 
 ]
-<25.png, id=797, 327.2225pt x 322.20375pt>
+<25.png, id=805, 327.2225pt x 322.20375pt>
 File: 25.png Graphic file (type png)
 <use 25.png>
 Package pdftex.def Info: 25.png  used on input line 216.
 (pdftex.def)             Requested size: 143.7634pt x 141.55867pt.
-<26.png, id=798, 115.632pt x 65.043pt>
+<26.png, id=806, 115.632pt x 65.043pt>
 File: 26.png Graphic file (type png)
 <use 26.png>
 Package pdftex.def Info: 26.png  used on input line 216.
@@ -980,7 +982,7 @@ Package pdftex.def Info: 26.png  used on input line 216.
  <./25.png> <./26.png>] [25
 
 ]
-<28.png, id=870, 975.645pt x 318.18875pt>
+<28.png, id=878, 975.645pt x 318.18875pt>
 File: 28.png Graphic file (type png)
 <use 28.png>
 Package pdftex.def Info: 28.png  used on input line 238.
@@ -988,7 +990,7 @@ Package pdftex.def Info: 28.png  used on input line 238.
  [26
 
  <./28.png>]
-<30.png, id=899, 978.65625pt x 451.6875pt>
+<30.png, id=907, 978.65625pt x 451.6875pt>
 File: 30.png Graphic file (type png)
 <use 30.png>
 Package pdftex.def Info: 30.png  used on input line 243.
@@ -996,7 +998,7 @@ Package pdftex.def Info: 30.png  used on input line 243.
  [27
 
  <./30.png>]
-<31.png, id=926, 637.38126pt x 395.4775pt>
+<31.png, id=934, 637.38126pt x 395.4775pt>
 File: 31.png Graphic file (type png)
 <use 31.png>
 Package pdftex.def Info: 31.png  used on input line 272.
@@ -1012,7 +1014,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction
                    \relax 
 l.272 \end{frame}
                  
-<32.png, id=927, 453.695pt x 449.68pt>
+<32.png, id=935, 453.695pt x 449.68pt>
 File: 32.png Graphic file (type png)
 <use 32.png>
 Package pdftex.def Info: 32.png  used on input line 272.
@@ -1028,7 +1030,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\04
                    \relax 
 l.272 \end{frame}
                  
-<33.jpg, id=928, 993.7125pt x 1003.75pt>
+<33.jpg, id=936, 993.7125pt x 1003.75pt>
 File: 33.jpg Graphic file (type jpg)
 <use 33.jpg>
 Package pdftex.def Info: 33.jpg  used on input line 272.
@@ -1048,7 +1050,7 @@ l.272 \end{frame}
  <./31.png> <./32.png> <./33.jpg>] [29
 
 ]
-<33.png, id=983, 978.65625pt x 368.37625pt>
+<33.png, id=991, 978.65625pt x 368.37625pt>
 File: 33.png Graphic file (type png)
 <use 33.png>
 Package pdftex.def Info: 33.png  used on input line 293.
@@ -1056,7 +1058,7 @@ Package pdftex.def Info: 33.png  used on input line 293.
  [30
 
  <./33.png>]
-<34.png, id=1013, 417.56pt x 206.7725pt>
+<34.png, id=1021, 417.56pt x 206.7725pt>
 File: 34.png Graphic file (type png)
 <use 34.png>
 Package pdftex.def Info: 34.png  used on input line 298.
@@ -1066,7 +1068,7 @@ Package pdftex.def Info: 34.png  used on input line 298.
  <./34.png>] [32
 
 ]
-<35.png, id=1068, 833.1125pt x 391.4625pt>
+<35.png, id=1076, 833.1125pt x 391.4625pt>
 File: 35.png Graphic file (type png)
 <use 35.png>
 Package pdftex.def Info: 35.png  used on input line 317.
@@ -1074,7 +1076,7 @@ Package pdftex.def Info: 35.png  used on input line 317.
  [33
 
  <./35.png>]
-<36.png, id=1096, 935.495pt x 337.26pt>
+<36.png, id=1104, 935.495pt x 337.26pt>
 File: 36.png Graphic file (type png)
 <use 36.png>
 Package pdftex.def Info: 36.png  used on input line 324.
@@ -1082,7 +1084,7 @@ Package pdftex.def Info: 36.png  used on input line 324.
  [34
 
  <./36.png>]
-<37.png, id=1123, 725.71124pt x 427.5975pt>
+<37.png, id=1131, 725.71124pt x 427.5975pt>
 File: 37.png Graphic file (type png)
 <use 37.png>
 Package pdftex.def Info: 37.png  used on input line 335.
@@ -1090,7 +1092,7 @@ Package pdftex.def Info: 37.png  used on input line 335.
  [35
 
  <./37.png>]
-<38.png, id=1155, 766.865pt x 295.1025pt>
+<38.png, id=1163, 766.865pt x 295.1025pt>
 File: 38.png Graphic file (type png)
 <use 38.png>
 Package pdftex.def Info: 38.png  used on input line 340.
@@ -1098,7 +1100,7 @@ Package pdftex.def Info: 38.png  used on input line 340.
  [36
 
  <./38.png>]
-<39.png, id=1182, 977.6525pt x 358.33875pt>
+<39.png, id=1190, 977.6525pt x 358.33875pt>
 File: 39.png Graphic file (type png)
 <use 39.png>
 Package pdftex.def Info: 39.png  used on input line 345.
@@ -1106,7 +1108,7 @@ Package pdftex.def Info: 39.png  used on input line 345.
  [37
 
  <./39.png>]
-<40.png, id=1211, 784.9325pt x 492.84125pt>
+<40.png, id=1219, 784.9325pt x 492.84125pt>
 File: 40.png Graphic file (type png)
 <use 40.png>
 Package pdftex.def Info: 40.png  used on input line 354.
@@ -1114,7 +1116,7 @@ Package pdftex.def Info: 40.png  used on input line 354.
  [38
 
  <./40.png>]
-<41.png, id=1241, 729.72626pt x 314.17375pt>
+<41.png, id=1249, 729.72626pt x 314.17375pt>
 File: 41.png Graphic file (type png)
 <use 41.png>
 Package pdftex.def Info: 41.png  used on input line 365.
@@ -1122,7 +1124,7 @@ Package pdftex.def Info: 41.png  used on input line 365.
  [39
 
  <./41.png>]
-<42.jpeg, id=1269, 308.352pt x 462.528pt>
+<42.jpeg, id=1277, 308.352pt x 462.528pt>
 File: 42.jpeg Graphic file (type jpg)
 <use 42.jpeg>
 Package pdftex.def Info: 42.jpeg  used on input line 383.
@@ -1138,7 +1140,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction
                    \relax 
 l.383 \end{frame}
                  
-<43.png, id=1270, 622.325pt x 401.5pt>
+<43.png, id=1278, 622.325pt x 401.5pt>
 File: 43.png Graphic file (type png)
 <use 43.png>
 Package pdftex.def Info: 43.png  used on input line 383.
@@ -1160,7 +1162,7 @@ Overfull \vbox (8.30556pt too high) detected at line 383
 [40
 
  <./42.jpeg> <./43.png>]
-<44.jpeg, id=1298, 609.27625pt x 432.61626pt>
+<44.jpeg, id=1306, 609.27625pt x 432.61626pt>
 File: 44.jpeg Graphic file (type jpg)
 <use 44.jpeg>
 Package pdftex.def Info: 44.jpeg  used on input line 388.
@@ -1168,7 +1170,7 @@ Package pdftex.def Info: 44.jpeg  used on input line 388.
  [41
 
  <./44.jpeg>]
-<45.jpg, id=1326, 682.55pt x 1003.75pt>
+<45.jpg, id=1334, 682.55pt x 1003.75pt>
 File: 45.jpg Graphic file (type jpg)
 <use 45.jpg>
 Package pdftex.def Info: 45.jpg  used on input line 414.
@@ -1184,7 +1186,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{sub@Refraction
                    \relax 
 l.414 \end{frame}
                  
-<45.jpeg, id=1327, 200.75pt x 181.67876pt>
+<45.jpeg, id=1335, 200.75pt x 181.67876pt>
 File: 45.jpeg Graphic file (type jpg)
 <use 45.jpeg>
 Package pdftex.def Info: 45.jpeg  used on input line 414.
@@ -1200,7 +1202,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{sub@Bending\04
                    \relax 
 l.414 \end{frame}
                  
-<47.jpeg, id=1328, 1275.76625pt x 635.37375pt>
+<47.jpeg, id=1336, 1275.76625pt x 635.37375pt>
 File: 47.jpeg Graphic file (type jpg)
 <use 47.jpeg>
 Package pdftex.def Info: 47.jpeg  used on input line 414.
@@ -1218,7 +1220,7 @@ l.414 \end{frame}
                   [42
 
  <./45.jpg> <./45.jpeg> <./47.jpeg>]
-<50.png, id=1355, 443.6575pt x 305.14pt>
+<50.png, id=1363, 443.6575pt x 305.14pt>
 File: 50.png Graphic file (type png)
 <use 50.png>
 Package pdftex.def Info: 50.png  used on input line 425.
@@ -1226,7 +1228,7 @@ Package pdftex.def Info: 50.png  used on input line 425.
  [43
 
  <./50.png>]
-<49.png, id=1383, 773.89125pt x 314.17375pt>
+<49.png, id=1391, 773.89125pt x 314.17375pt>
 File: 49.png Graphic file (type png)
 <use 49.png>
 Package pdftex.def Info: 49.png  used on input line 431.
@@ -1234,7 +1236,7 @@ Package pdftex.def Info: 49.png  used on input line 431.
  [44
 
  <./49.png>]
-<51.png, id=1410, 467.7475pt x 317.185pt>
+<51.png, id=1418, 467.7475pt x 317.185pt>
 File: 51.png Graphic file (type png)
 <use 51.png>
 Package pdftex.def Info: 51.png  used on input line 440.
@@ -1242,7 +1244,7 @@ Package pdftex.def Info: 51.png  used on input line 440.
  [45
 
  <./51.png>]
-<52.png, id=1439, 334.24875pt x 401.5pt>
+<52.png, id=1447, 334.24875pt x 401.5pt>
 File: 52.png Graphic file (type png)
 <use 52.png>
 Package pdftex.def Info: 52.png  used on input line 456.
@@ -1250,7 +1252,7 @@ Package pdftex.def Info: 52.png  used on input line 456.
  [46
 
  <./52.png>]
-<54.png, id=1479, 758.835pt x 321.2pt>
+<54.png, id=1487, 758.835pt x 321.2pt>
 File: 54.png Graphic file (type png)
 <use 54.png>
 Package pdftex.def Info: 54.png  used on input line 472.
@@ -1260,12 +1262,12 @@ Package pdftex.def Info: 54.png  used on input line 472.
  <./54.png>] [48
 
 ]
-<55.png, id=1547, 814.04124pt x 384.43625pt>
+<55.png, id=1555, 814.04124pt x 384.43625pt>
 File: 55.png Graphic file (type png)
 <use 55.png>
 Package pdftex.def Info: 55.png  used on input line 488.
 (pdftex.def)             Requested size: 244.21425pt x 115.33176pt.
-<56.png, id=1548, 934.49126pt x 265.99374pt>
+<56.png, id=1556, 934.49126pt x 265.99374pt>
 File: 56.png Graphic file (type png)
 <use 56.png>
 Package pdftex.def Info: 56.png  used on input line 488.
@@ -1273,7 +1275,7 @@ Package pdftex.def Info: 56.png  used on input line 488.
  [49
 
  <./55.png> <./56.png>]
-<57.png, id=1578, 972.63374pt x 585.18625pt>
+<57.png, id=1586, 972.63374pt x 585.18625pt>
 File: 57.png Graphic file (type png)
 <use 57.png>
 Package pdftex.def Info: 57.png  used on input line 499.
@@ -1281,7 +1283,7 @@ Package pdftex.def Info: 57.png  used on input line 499.
  [50
 
  <./57.png>]
-<58.png, id=1606, 973.6375pt x 639.38875pt>
+<58.png, id=1614, 973.6375pt x 639.38875pt>
 File: 58.png Graphic file (type png)
 <use 58.png>
 Package pdftex.def Info: 58.png  used on input line 506.
@@ -1289,7 +1291,7 @@ Package pdftex.def Info: 58.png  used on input line 506.
  [51
 
  <./58.png>]
-<59.jpg, id=1634, 328.5876pt x 177.7842pt>
+<59.jpg, id=1642, 328.5876pt x 177.7842pt>
 File: 59.jpg Graphic file (type jpg)
 <use 59.jpg>
 Package pdftex.def Info: 59.jpg  used on input line 513.
@@ -1297,7 +1299,7 @@ Package pdftex.def Info: 59.jpg  used on input line 513.
  [52
 
  <./59.jpg>]
-<60.png, id=1661, 1859.94875pt x 658.46pt>
+<60.png, id=1669, 1859.94875pt x 658.46pt>
 File: 60.png Graphic file (type png)
 <use 60.png>
 Package pdftex.def Info: 60.png  used on input line 530.
@@ -1305,7 +1307,7 @@ Package pdftex.def Info: 60.png  used on input line 530.
  [53
 
  <./60.png>]
-<63.jpg, id=1700, 706.89093pt x 506.6428pt>
+<63.jpg, id=1708, 706.89093pt x 506.6428pt>
 File: 63.jpg Graphic file (type jpg)
 <use 63.jpg>
 Package pdftex.def Info: 63.jpg  used on input line 541.
@@ -1313,7 +1315,7 @@ Package pdftex.def Info: 63.jpg  used on input line 541.
  [54
 
  <./63.jpg (PNG copy)>]
-<61.jpg, id=1727, 533.3526pt x 325.215pt>
+<61.jpg, id=1737, 533.3526pt x 325.215pt>
 File: 61.jpg Graphic file (type jpg)
 <use 61.jpg>
 Package pdftex.def Info: 61.jpg  used on input line 552.
@@ -1321,7 +1323,7 @@ Package pdftex.def Info: 61.jpg  used on input line 552.
  [55
 
  <./61.jpg>]
-<64.jpg, id=1755, 682.80093pt x 515.67656pt>
+<64.jpg, id=1765, 682.80093pt x 515.67656pt>
 File: 64.jpg Graphic file (type jpg)
 <use 64.jpg>
 Package pdftex.def Info: 64.jpg  used on input line 559.
@@ -1329,7 +1331,7 @@ Package pdftex.def Info: 64.jpg  used on input line 559.
  [56
 
  <./64.jpg (PNG copy)>]
-<65.jpg, id=1783, 666.99188pt x 529.98pt>
+<65.jpg, id=1793, 666.99188pt x 529.98pt>
 File: 65.jpg Graphic file (type jpg)
 <use 65.jpg>
 Package pdftex.def Info: 65.jpg  used on input line 566.
@@ -1337,7 +1339,7 @@ Package pdftex.def Info: 65.jpg  used on input line 566.
  [57
 
  <./65.jpg (PNG copy)>]
-<66.jpg, id=1810, 747.54282pt x 535.2497pt>
+<66.jpg, id=1820, 747.54282pt x 535.2497pt>
 File: 66.jpg Graphic file (type jpg)
 <use 66.jpg>
 Package pdftex.def Info: 66.jpg  used on input line 573.
@@ -1345,7 +1347,7 @@ Package pdftex.def Info: 66.jpg  used on input line 573.
  [58
 
  <./66.jpg (PNG copy)>]
-<67.jpg, id=1837, 677.53125pt x 566.115pt>
+<67.jpg, id=1847, 677.53125pt x 566.115pt>
 File: 67.jpg Graphic file (type jpg)
 <use 67.jpg>
 Package pdftex.def Info: 67.jpg  used on input line 580.
@@ -1353,7 +1355,7 @@ Package pdftex.def Info: 67.jpg  used on input line 580.
  [59
 
  <./67.jpg (PNG copy)>]
-<68.jpg, id=1864, 709.90219pt x 563.10374pt>
+<68.jpg, id=1874, 709.90219pt x 563.10374pt>
 File: 68.jpg Graphic file (type jpg)
 <use 68.jpg>
 Package pdftex.def Info: 68.jpg  used on input line 587.
@@ -1361,7 +1363,7 @@ Package pdftex.def Info: 68.jpg  used on input line 587.
  [60
 
  <./68.jpg (PNG copy)>]
-<69.jpg, id=1892, 735.49782pt x 570.63188pt>
+<69.jpg, id=1902, 735.49782pt x 570.63188pt>
 File: 69.jpg Graphic file (type jpg)
 <use 69.jpg>
 Package pdftex.def Info: 69.jpg  used on input line 594.
@@ -1369,7 +1371,7 @@ Package pdftex.def Info: 69.jpg  used on input line 594.
  [61
 
  <./69.jpg (PNG copy)>]
-<70.jpg, id=1920, 727.96968pt x 593.21625pt>
+<70.jpg, id=1930, 727.96968pt x 593.21625pt>
 File: 70.jpg Graphic file (type jpg)
 <use 70.jpg>
 Package pdftex.def Info: 70.jpg  used on input line 601.
@@ -1377,7 +1379,7 @@ Package pdftex.def Info: 70.jpg  used on input line 601.
  [62
 
  <./70.jpg (PNG copy)>]
-<71.jpg, id=1947, 701.62125pt x 571.38469pt>
+<71.jpg, id=1957, 701.62125pt x 571.38469pt>
 File: 71.jpg Graphic file (type jpg)
 <use 71.jpg>
 Package pdftex.def Info: 71.jpg  used on input line 608.
@@ -1385,7 +1387,7 @@ Package pdftex.def Info: 71.jpg  used on input line 608.
  [63
 
  <./71.jpg (PNG copy)>]
-<72.jpg, id=1974, 706.13812pt x 575.14874pt>
+<72.jpg, id=1984, 706.13812pt x 575.14874pt>
 File: 72.jpg Graphic file (type jpg)
 <use 72.jpg>
 Package pdftex.def Info: 72.jpg  used on input line 615.
@@ -1393,7 +1395,7 @@ Package pdftex.def Info: 72.jpg  used on input line 615.
  [64
 
  <./72.jpg (PNG copy)>]
-<73.jpg, id=2002, 710.655pt x 562.35094pt>
+<73.jpg, id=2012, 710.655pt x 562.35094pt>
 File: 73.jpg Graphic file (type jpg)
 <use 73.jpg>
 Package pdftex.def Info: 73.jpg  used on input line 622.
@@ -1401,7 +1403,7 @@ Package pdftex.def Info: 73.jpg  used on input line 622.
  [65
 
  <./73.jpg (PNG copy)>]
-<74.jpg, id=2029, 778.40813pt x 587.19376pt>
+<74.jpg, id=2039, 778.40813pt x 587.19376pt>
 File: 74.jpg Graphic file (type jpg)
 <use 74.jpg>
 Package pdftex.def Info: 74.jpg  used on input line 629.
@@ -1409,7 +1411,7 @@ Package pdftex.def Info: 74.jpg  used on input line 629.
  [66
 
  <./74.jpg (PNG copy)>]
-<75.jpg, id=2056, 719.68875pt x 563.85657pt>
+<75.jpg, id=2066, 719.68875pt x 563.85657pt>
 File: 75.jpg Graphic file (type jpg)
 <use 75.jpg>
 Package pdftex.def Info: 75.jpg  used on input line 636.
@@ -1417,7 +1419,7 @@ Package pdftex.def Info: 75.jpg  used on input line 636.
  [67
 
  <./75.jpg (PNG copy)>]
-<76.jpg, id=2084, 702.37407pt x 575.90157pt>
+<76.jpg, id=2094, 702.37407pt x 575.90157pt>
 File: 76.jpg Graphic file (type jpg)
 <use 76.jpg>
 Package pdftex.def Info: 76.jpg  used on input line 643.
@@ -1425,7 +1427,7 @@ Package pdftex.def Info: 76.jpg  used on input line 643.
  [68
 
  <./76.jpg (PNG copy)>]
-<77.jpg, id=2112, 714.41907pt x 569.12625pt>
+<77.jpg, id=2122, 714.41907pt x 569.12625pt>
 File: 77.jpg Graphic file (type jpg)
 <use 77.jpg>
 Package pdftex.def Info: 77.jpg  used on input line 650.
@@ -1433,7 +1435,7 @@ Package pdftex.def Info: 77.jpg  used on input line 650.
  [69
 
  <./77.jpg (PNG copy)>]
-<78.jpg, id=2139, 714.41907pt x 578.16pt>
+<78.jpg, id=2149, 714.41907pt x 578.16pt>
 File: 78.jpg Graphic file (type jpg)
 <use 78.jpg>
 Package pdftex.def Info: 78.jpg  used on input line 657.
@@ -1441,7 +1443,7 @@ Package pdftex.def Info: 78.jpg  used on input line 657.
  [70
 
  <./78.jpg (PNG copy)>]
-<79.jpg, id=2166, 695.59875pt x 573.64313pt>
+<79.jpg, id=2176, 695.59875pt x 573.64313pt>
 File: 79.jpg Graphic file (type jpg)
 <use 79.jpg>
 Package pdftex.def Info: 79.jpg  used on input line 664.
@@ -1449,7 +1451,7 @@ Package pdftex.def Info: 79.jpg  used on input line 664.
  [71
 
  <./79.jpg (PNG copy)>]
-<80.jpg, id=2193, 714.41907pt x 575.14874pt>
+<80.jpg, id=2203, 714.41907pt x 575.14874pt>
 File: 80.jpg Graphic file (type jpg)
 <use 80.jpg>
 Package pdftex.def Info: 80.jpg  used on input line 671.
@@ -1457,7 +1459,7 @@ Package pdftex.def Info: 80.jpg  used on input line 671.
  [72
 
  <./80.jpg (PNG copy)>]
-<81.jpg, id=2221, 721.94719pt x 586.44093pt>
+<81.jpg, id=2231, 721.94719pt x 586.44093pt>
 File: 81.jpg Graphic file (type jpg)
 <use 81.jpg>
 Package pdftex.def Info: 81.jpg  used on input line 678.
@@ -1465,7 +1467,7 @@ Package pdftex.def Info: 81.jpg  used on input line 678.
  [73
 
  <./81.jpg (PNG copy)>]
-<82.jpg, id=2249, 708.39656pt x 569.87906pt>
+<82.jpg, id=2259, 708.39656pt x 569.87906pt>
 File: 82.jpg Graphic file (type jpg)
 <use 82.jpg>
 Package pdftex.def Info: 82.jpg  used on input line 685.
@@ -1473,7 +1475,7 @@ Package pdftex.def Info: 82.jpg  used on input line 685.
  [74
 
  <./82.jpg (PNG copy)>]
-<83.jpg, id=2276, 691.08188pt x 563.10374pt>
+<83.jpg, id=2286, 691.08188pt x 563.10374pt>
 File: 83.jpg Graphic file (type jpg)
 <use 83.jpg>
 Package pdftex.def Info: 83.jpg  used on input line 692.
@@ -1481,7 +1483,7 @@ Package pdftex.def Info: 83.jpg  used on input line 692.
  [75
 
  <./83.jpg (PNG copy)>]
-<84.jpg, id=2303, 700.86844pt x 572.89032pt>
+<84.jpg, id=2313, 700.86844pt x 572.89032pt>
 File: 84.jpg Graphic file (type jpg)
 <use 84.jpg>
 Package pdftex.def Info: 84.jpg  used on input line 699.
@@ -1489,7 +1491,7 @@ Package pdftex.def Info: 84.jpg  used on input line 699.
  [76
 
  <./84.jpg (PNG copy)>]
-<85.jpg, id=2331, 708.39656pt x 574.39594pt>
+<85.jpg, id=2341, 708.39656pt x 574.39594pt>
 File: 85.jpg Graphic file (type jpg)
 <use 85.jpg>
 Package pdftex.def Info: 85.jpg  used on input line 706.
@@ -1497,7 +1499,7 @@ Package pdftex.def Info: 85.jpg  used on input line 706.
  [77
 
  <./85.jpg (PNG copy)>]
-<86.jpg, id=2358, 793.46437pt x 565.36218pt>
+<86.jpg, id=2368, 793.46437pt x 565.36218pt>
 File: 86.jpg Graphic file (type jpg)
 <use 86.jpg>
 Package pdftex.def Info: 86.jpg  used on input line 713.
@@ -1505,7 +1507,7 @@ Package pdftex.def Info: 86.jpg  used on input line 713.
  [78
 
  <./86.jpg (PNG copy)>]
-<87.jpg, id=2385, 786.68906pt x 578.16pt>
+<87.jpg, id=2395, 786.68906pt x 578.16pt>
 File: 87.jpg Graphic file (type jpg)
 <use 87.jpg>
 Package pdftex.def Info: 87.jpg  used on input line 720.
@@ -1513,7 +1515,7 @@ Package pdftex.def Info: 87.jpg  used on input line 720.
  [79
 
  <./87.jpg (PNG copy)>]
-<88.jpg, id=2413, 765.6103pt x 546.54187pt>
+<88.jpg, id=2423, 765.6103pt x 546.54187pt>
 File: 88.jpg Graphic file (type jpg)
 <use 88.jpg>
 Package pdftex.def Info: 88.jpg  used on input line 727.
@@ -1521,7 +1523,7 @@ Package pdftex.def Info: 88.jpg  used on input line 727.
  [80
 
  <./88.jpg (PNG copy)>]
-<89.jpg, id=2441, 779.16093pt x 566.86781pt>
+<89.jpg, id=2451, 779.16093pt x 566.86781pt>
 File: 89.jpg Graphic file (type jpg)
 <use 89.jpg>
 Package pdftex.def Info: 89.jpg  used on input line 734.
@@ -1529,7 +1531,7 @@ Package pdftex.def Info: 89.jpg  used on input line 734.
  [81
 
  <./89.jpg (PNG copy)>]
-<90.jpg, id=2468, 725.71124pt x 577.40718pt>
+<90.jpg, id=2478, 725.71124pt x 577.40718pt>
 File: 90.jpg Graphic file (type jpg)
 <use 90.jpg>
 Package pdftex.def Info: 90.jpg  used on input line 741.
@@ -1537,7 +1539,7 @@ Package pdftex.def Info: 90.jpg  used on input line 741.
  [82
 
  <./90.jpg (PNG copy)>]
-<91.jpg, id=2495, 682.04813pt x 578.91281pt>
+<91.jpg, id=2505, 682.04813pt x 578.91281pt>
 File: 91.jpg Graphic file (type jpg)
 <use 91.jpg>
 Package pdftex.def Info: 91.jpg  used on input line 748.
@@ -1545,7 +1547,7 @@ Package pdftex.def Info: 91.jpg  used on input line 748.
  [83
 
  <./91.jpg (PNG copy)>]
-<92.jpg, id=2522, 706.89093pt x 581.92406pt>
+<92.jpg, id=2532, 706.89093pt x 581.92406pt>
 File: 92.jpg Graphic file (type jpg)
 <use 92.jpg>
 Package pdftex.def Info: 92.jpg  used on input line 756.
@@ -1553,7 +1555,7 @@ Package pdftex.def Info: 92.jpg  used on input line 756.
  [84
 
  <./92.jpg (PNG copy)>]
-<93.jpg, id=2550, 714.41907pt x 572.89032pt>
+<93.jpg, id=2560, 714.41907pt x 572.89032pt>
 File: 93.jpg Graphic file (type jpg)
 <use 93.jpg>
 Package pdftex.def Info: 93.jpg  used on input line 763.
@@ -1561,7 +1563,7 @@ Package pdftex.def Info: 93.jpg  used on input line 763.
  [85
 
  <./93.jpg (PNG copy)>]
-<94.jpg, id=2578, 746.79pt x 573.64313pt>
+<94.jpg, id=2588, 746.79pt x 573.64313pt>
 File: 94.jpg Graphic file (type jpg)
 <use 94.jpg>
 Package pdftex.def Info: 94.jpg  used on input line 770.
@@ -1569,7 +1571,7 @@ Package pdftex.def Info: 94.jpg  used on input line 770.
  [86
 
  <./94.jpg (PNG copy)>]
-<95.jpg, id=2605, 712.16063pt x 579.66562pt>
+<95.jpg, id=2615, 712.16063pt x 579.66562pt>
 File: 95.jpg Graphic file (type jpg)
 <use 95.jpg>
 Package pdftex.def Info: 95.jpg  used on input line 777.
@@ -1577,7 +1579,7 @@ Package pdftex.def Info: 95.jpg  used on input line 777.
  [87
 
  <./95.jpg (PNG copy)>]
-<96.jpg, id=2632, 730.98094pt x 589.4522pt>
+<96.jpg, id=2642, 730.98094pt x 589.4522pt>
 File: 96.jpg Graphic file (type jpg)
 <use 96.jpg>
 Package pdftex.def Info: 96.jpg  used on input line 784.
@@ -1585,7 +1587,7 @@ Package pdftex.def Info: 96.jpg  used on input line 784.
  [88
 
  <./96.jpg (PNG copy)>]
-<97.jpg, id=2660, 679.03688pt x 569.87906pt>
+<97.jpg, id=2670, 679.03688pt x 569.87906pt>
 File: 97.jpg Graphic file (type jpg)
 <use 97.jpg>
 Package pdftex.def Info: 97.jpg  used on input line 791.
@@ -1593,7 +1595,7 @@ Package pdftex.def Info: 97.jpg  used on input line 791.
  [89
 
  <./97.jpg (PNG copy)>]
-<98.jpg, id=2687, 697.8572pt x 580.41844pt>
+<98.jpg, id=2697, 697.8572pt x 580.41844pt>
 File: 98.jpg Graphic file (type jpg)
 <use 98.jpg>
 Package pdftex.def Info: 98.jpg  used on input line 798.
@@ -1601,7 +1603,7 @@ Package pdftex.def Info: 98.jpg  used on input line 798.
  [90
 
  <./98.jpg (PNG copy)>]
-<99.jpg, id=2714, 713.66624pt x 583.42969pt>
+<99.jpg, id=2724, 713.66624pt x 583.42969pt>
 File: 99.jpg Graphic file (type jpg)
 <use 99.jpg>
 Package pdftex.def Info: 99.jpg  used on input line 804.
@@ -1609,7 +1611,7 @@ Package pdftex.def Info: 99.jpg  used on input line 804.
  [91
 
  <./99.jpg (PNG copy)>]
-<100.jpg, id=2742, 696.35156pt x 566.86781pt>
+<100.jpg, id=2752, 696.35156pt x 566.86781pt>
 File: 100.jpg Graphic file (type jpg)
 <use 100.jpg>
 Package pdftex.def Info: 100.jpg  used on input line 811.
@@ -1617,7 +1619,7 @@ Package pdftex.def Info: 100.jpg  used on input line 811.
  [92
 
  <./100.jpg (PNG copy)>]
-<101.jpg, id=2770, 775.39688pt x 579.66562pt>
+<101.jpg, id=2780, 775.39688pt x 579.66562pt>
 File: 101.jpg Graphic file (type jpg)
 <use 101.jpg>
 Package pdftex.def Info: 101.jpg  used on input line 818.
@@ -1625,7 +1627,7 @@ Package pdftex.def Info: 101.jpg  used on input line 818.
  [93
 
  <./101.jpg (PNG copy)>]
-<102.jpg, id=2797, 722.7pt x 569.87906pt>
+<102.jpg, id=2807, 722.7pt x 569.87906pt>
 File: 102.jpg Graphic file (type jpg)
 <use 102.jpg>
 Package pdftex.def Info: 102.jpg  used on input line 825.
@@ -1633,7 +1635,7 @@ Package pdftex.def Info: 102.jpg  used on input line 825.
  [94
 
  <./102.jpg (PNG copy)>]
-<103.jpg, id=2824, 730.98094pt x 566.115pt>
+<103.jpg, id=2834, 730.98094pt x 566.115pt>
 File: 103.jpg Graphic file (type jpg)
 <use 103.jpg>
 Package pdftex.def Info: 103.jpg  used on input line 832.
@@ -1641,7 +1643,7 @@ Package pdftex.def Info: 103.jpg  used on input line 832.
  [95
 
  <./103.jpg (PNG copy)>]
-<104.jpg, id=2851, 699.36281pt x 531.48563pt>
+<104.jpg, id=2861, 699.36281pt x 531.48563pt>
 File: 104.jpg Graphic file (type jpg)
 <use 104.jpg>
 Package pdftex.def Info: 104.jpg  used on input line 839.
@@ -1649,7 +1651,7 @@ Package pdftex.def Info: 104.jpg  used on input line 839.
  [96
 
  <./104.jpg (PNG copy)>]
-<105.jpg, id=2879, 724.20563pt x 534.49687pt>
+<105.jpg, id=2889, 724.20563pt x 534.49687pt>
 File: 105.jpg Graphic file (type jpg)
 <use 105.jpg>
 Package pdftex.def Info: 105.jpg  used on input line 846.
@@ -1657,7 +1659,7 @@ Package pdftex.def Info: 105.jpg  used on input line 846.
  [97
 
  <./105.jpg (PNG copy)>]
-<106.jpg, id=2907, 697.8572pt x 563.85657pt>
+<106.jpg, id=2917, 697.8572pt x 563.85657pt>
 File: 106.jpg Graphic file (type jpg)
 <use 106.jpg>
 Package pdftex.def Info: 106.jpg  used on input line 853.
@@ -1665,7 +1667,7 @@ Package pdftex.def Info: 106.jpg  used on input line 853.
  [98
 
  <./106.jpg (PNG copy)>]
-<107.jpg, id=2934, 702.37407pt x 529.98pt>
+<107.jpg, id=2944, 702.37407pt x 529.98pt>
 File: 107.jpg Graphic file (type jpg)
 <use 107.jpg>
 Package pdftex.def Info: 107.jpg  used on input line 860.
@@ -1673,7 +1675,7 @@ Package pdftex.def Info: 107.jpg  used on input line 860.
  [99
 
  <./107.jpg (PNG copy)>]
-<108.jpg, id=2961, 794.97pt x 602.25pt>
+<108.jpg, id=2971, 794.97pt x 602.25pt>
 File: 108.jpg Graphic file (type jpg)
 <use 108.jpg>
 Package pdftex.def Info: 108.jpg  used on input line 866.
@@ -1681,7 +1683,7 @@ Package pdftex.def Info: 108.jpg  used on input line 866.
  [100
 
  <./108.jpg (PNG copy)>]
-<109.jpg, id=2989, 709.14937pt x 579.66562pt>
+<109.jpg, id=2999, 709.14937pt x 579.66562pt>
 File: 109.jpg Graphic file (type jpg)
 <use 109.jpg>
 Package pdftex.def Info: 109.jpg  used on input line 873.
@@ -1689,7 +1691,7 @@ Package pdftex.def Info: 109.jpg  used on input line 873.
  [101
 
  <./109.jpg (PNG copy)>]
-<110.jpg, id=3016, 741.52031pt x 575.14874pt>
+<110.jpg, id=3026, 741.52031pt x 575.14874pt>
 File: 110.jpg Graphic file (type jpg)
 <use 110.jpg>
 Package pdftex.def Info: 110.jpg  used on input line 879.
@@ -1697,7 +1699,7 @@ Package pdftex.def Info: 110.jpg  used on input line 879.
  [102
 
  <./110.jpg (PNG copy)>]
-<111.jpg, id=3042, 654.94687pt x 552.56438pt>
+<111.jpg, id=3053, 654.94687pt x 552.56438pt>
 File: 111.jpg Graphic file (type jpg)
 <use 111.jpg>
 Package pdftex.def Info: 111.jpg  used on input line 885.
@@ -1705,6 +1707,198 @@ Package pdftex.def Info: 111.jpg  used on input line 885.
  [103
 
  <./111.jpg (PNG copy)>]
+<120.jpg, id=3081, 351.3125pt x 551.05875pt>
+File: 120.jpg Graphic file (type jpg)
+<use 120.jpg>
+Package pdftex.def Info: 120.jpg  used on input line 892.
+(pdftex.def)             Requested size: 140.5225pt x 220.41959pt.
+ [104
+
+ <./120.jpg>]
+<121.jpg, id=3109, 602.25pt x 481.8pt>
+File: 121.jpg Graphic file (type jpg)
+<use 121.jpg>
+Package pdftex.def Info: 121.jpg  used on input line 899.
+(pdftex.def)             Requested size: 240.89572pt x 192.71658pt.
+ [105
+
+ <./121.jpg>]
+<123.jpg, id=3136, 451.6875pt x 311.1625pt>
+File: 123.jpg Graphic file (type jpg)
+<use 123.jpg>
+Package pdftex.def Info: 123.jpg  used on input line 906.
+(pdftex.def)             Requested size: 180.67178pt x 124.46278pt.
+ [106
+
+ <./123.jpg>]
+<124.jpg, id=3163, 602.25pt x 333.245pt>
+File: 124.jpg Graphic file (type jpg)
+<use 124.jpg>
+Package pdftex.def Info: 124.jpg  used on input line 913.
+(pdftex.def)             Requested size: 240.89572pt x 133.29562pt.
+ [107
+
+ <./124.jpg>]
+<125.jpg, id=3190, 602.25pt x 340.27126pt>
+File: 125.jpg Graphic file (type jpg)
+<use 125.jpg>
+Package pdftex.def Info: 125.jpg  used on input line 920.
+(pdftex.def)             Requested size: 240.89572pt x 136.10608pt.
+ [108
+
+ <./125.jpg>]
+<126.jpg, id=3218, 501.875pt x 408.52625pt>
+File: 126.jpg Graphic file (type jpg)
+<use 126.jpg>
+Package pdftex.def Info: 126.jpg  used on input line 929.
+(pdftex.def)             Requested size: 200.74643pt x 163.4076pt.
+ [109
+
+ <./126.jpg>]
+<127.jpg, id=3246, 602.25pt x 682.55pt>
+File: 127.jpg Graphic file (type jpg)
+<use 127.jpg>
+Package pdftex.def Info: 127.jpg  used on input line 936.
+(pdftex.def)             Requested size: 180.67639pt x 204.76657pt.
+ [110
+
+ <./127.jpg>]
+<128.jpg, id=3273, 602.25pt x 633.36626pt>
+File: 128.jpg Graphic file (type jpg)
+<use 128.jpg>
+Package pdftex.def Info: 128.jpg  used on input line 943.
+(pdftex.def)             Requested size: 180.67639pt x 190.01134pt.
+ [111
+
+ <./128.jpg>]
+<129.jpg, id=3300, 602.25pt x 423.5825pt>
+File: 129.jpg Graphic file (type jpg)
+<use 129.jpg>
+Package pdftex.def Info: 129.jpg  used on input line 950.
+(pdftex.def)             Requested size: 240.89572pt x 169.43pt.
+ [112
+
+ <./129.jpg>]
+<130.jpg, id=3328, 602.25pt x 593.21625pt>
+File: 130.jpg Graphic file (type jpg)
+<use 130.jpg>
+Package pdftex.def Info: 130.jpg  used on input line 956.
+(pdftex.def)             Requested size: 180.67639pt x 177.96625pt.
+ [113
+
+ <./130.jpg>]
+<131.jpg, id=3355, 602.25pt x 414.54875pt>
+File: 131.jpg Graphic file (type jpg)
+<use 131.jpg>
+Package pdftex.def Info: 131.jpg  used on input line 962.
+(pdftex.def)             Requested size: 240.89572pt x 165.81656pt.
+ [114
+
+ <./131.jpg>]
+<132.jpg, id=3382, 501.875pt x 580.1675pt>
+File: 132.jpg Graphic file (type jpg)
+<use 132.jpg>
+Package pdftex.def Info: 132.jpg  used on input line 970.
+(pdftex.def)             Requested size: 150.56366pt x 174.05157pt.
+ [115
+
+ <./132.jpg>]
+<133.jpg, id=3410, 602.25pt x 336.25626pt>
+File: 133.jpg Graphic file (type jpg)
+<use 133.jpg>
+Package pdftex.def Info: 133.jpg  used on input line 978.
+(pdftex.def)             Requested size: 240.89572pt x 134.5001pt.
+ [116
+
+ <./133.jpg>]
+<134.jpg, id=3438, 602.25pt x 395.4775pt>
+File: 134.jpg Graphic file (type jpg)
+<use 134.jpg>
+Package pdftex.def Info: 134.jpg  used on input line 985.
+(pdftex.def)             Requested size: 240.89572pt x 158.18819pt.
+ [117
+
+ <./134.jpg>]
+<135.jpg, id=3465, 401.5pt x 388.45125pt>
+File: 135.jpg Graphic file (type jpg)
+<use 135.jpg>
+Package pdftex.def Info: 135.jpg  used on input line 991.
+(pdftex.def)             Requested size: 160.59715pt x 155.37773pt.
+ [118
+
+ <./135.jpg>]
+<136.jpg, id=3491, 602.25pt x 460.72125pt>
+File: 136.jpg Graphic file (type jpg)
+<use 136.jpg>
+Package pdftex.def Info: 136.jpg  used on input line 999.
+(pdftex.def)             Requested size: 240.89572pt x 184.28523pt.
+ [119
+
+ <./136.jpg>]
+<137.jpg, id=3517, 602.25pt x 308.15125pt>
+File: 137.jpg Graphic file (type jpg)
+<use 137.jpg>
+Package pdftex.def Info: 137.jpg  used on input line 1007.
+(pdftex.def)             Requested size: 240.89572pt x 123.2583pt.
+ [120
+
+ <./137.jpg>]
+<138.jpg, id=3547, 602.25pt x 318.18875pt>
+File: 138.jpg Graphic file (type jpg)
+<use 138.jpg>
+Package pdftex.def Info: 138.jpg  used on input line 1014.
+(pdftex.def)             Requested size: 240.89572pt x 127.27324pt.
+ [121
+
+ <./138.jpg>]
+<139.jpg, id=3574, 602.25pt x 602.25pt>
+File: 139.jpg Graphic file (type jpg)
+<use 139.jpg>
+Package pdftex.def Info: 139.jpg  used on input line 1021.
+(pdftex.def)             Requested size: 120.44786pt x 120.44786pt.
+ [122
+
+ <./139.jpg>]
+<140.jpg, id=3600, 602.25pt x 401.5pt>
+File: 140.jpg Graphic file (type jpg)
+<use 140.jpg>
+Package pdftex.def Info: 140.jpg  used on input line 1028.
+(pdftex.def)             Requested size: 240.89572pt x 160.59715pt.
+ [123
+
+ <./140.jpg>]
+<141.jpg, id=3627, 180.675pt x 121.6545pt>
+File: 141.jpg Graphic file (type jpg)
+<use 141.jpg>
+Package pdftex.def Info: 141.jpg  used on input line 1035.
+(pdftex.def)             Requested size: 72.2687pt x 48.66092pt.
+ [124
+
+ <./141.jpg>]
+<142.jpg, id=3655, 602.25pt x 401.5pt>
+File: 142.jpg Graphic file (type jpg)
+<use 142.jpg>
+Package pdftex.def Info: 142.jpg  used on input line 1041.
+(pdftex.def)             Requested size: 240.89572pt x 160.59715pt.
+ [125
+
+ <./142.jpg>]
+<143.jpg, id=3682, 602.25pt x 320.19624pt>
+File: 143.jpg Graphic file (type jpg)
+<use 143.jpg>
+Package pdftex.def Info: 143.jpg  used on input line 1047.
+(pdftex.def)             Requested size: 240.89572pt x 128.07622pt.
+ [126
+
+ <./143.jpg>]
+<144.jpg, id=3708, 602.25pt x 426.59375pt>
+File: 144.jpg Graphic file (type jpg)
+<use 144.jpg>
+Package pdftex.def Info: 144.jpg  used on input line 1054.
+(pdftex.def)             Requested size: 240.89572pt x 170.63446pt.
+ [127
+
+ <./144.jpg>]
 \tf@nav=\write6
 \openout6 = `tutorial.nav'.
 
@@ -1719,21 +1913,21 @@ Package pdftex.def Info: 111.jpg  used on input line 885.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `tutorial.out' has not changed.
-(rerunfilecheck)             Checksum: 33A88947A68602E745D1961B2BE447A2;1878.
+(rerunfilecheck)             Checksum: E963460694DD831333B5568A05DE1345;2268.
  ) 
 Here is how much of TeX's memory you used:
- 24609 strings out of 476091
- 473853 string characters out of 5794081
- 1862330 words of memory out of 5000000
- 44191 multiletter control sequences out of 15000+600000
+ 24941 strings out of 476025
+ 480513 string characters out of 5790017
+ 1862388 words of memory out of 5000000
+ 44516 multiletter control sequences out of 15000+600000
  520249 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,438b,665s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on tutorial.pdf (103 pages, 28995595 bytes).
+ 128i,15n,122p,459b,664s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on tutorial.pdf (127 pages, 31882978 bytes).
 PDF statistics:
- 3172 PDF objects out of 3580 (max. 8388607)
- 2810 compressed objects within 29 object streams
- 229 named destinations out of 1000 (max. 500000)
- 1034 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3848 PDF objects out of 4296 (max. 8388607)
+ 3432 compressed objects within 35 object streams
+ 279 named destinations out of 1000 (max. 500000)
+ 1170 words of extra memory for PDF output out of 10000 (max. 10000000)
 
